@@ -5,7 +5,7 @@
             <source media="(prefers-color-scheme: light)" srcset="https://github.com/semaphore-protocol/website/blob/main/static/img/semaphore-icon.svg">
             <img width="40" alt="Semaphore icon." src="https://github.com/semaphore-protocol/website/blob/main/static/img/semaphore-icon.svg">
         </picture>
-        Semaphore Boilerplate
+        ETH New York Winner 2022
     </h1>
     <p align="center">A simple Next.js/Hardhat privacy application with <a href="https://github.com/appliedzkp/semaphore">Semaphore</a>.</p>
 </p>
